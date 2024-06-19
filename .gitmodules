@@ -1,3 +1,6 @@
 [submodule "Swarm-SLAM"]
 	path = Swarm-SLAM
 	url = https://github.com/MISTLab/Swarm-SLAM.git
+[submodule "SwarmSLAM"]
+	path = SwarmSLAM
+	url = https://github.com/MISTLab/Swarm-SLAM
